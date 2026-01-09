@@ -4,7 +4,7 @@ Refrence paper: Graph Neural Network Enhanced Virtual Element Method: A Novel Fr
 
 Created on Dec 31 2025
 
-@author: zrp22@mails.tsinghua.edu.cn
+@author: zrp22@mails.tsinghua.edu.cn, 2410254@tongji.edu.cn
 
 This open-source code provides a graph neural network architecture that enhances the stability of VEM.
 
